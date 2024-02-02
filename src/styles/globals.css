@@ -34,7 +34,7 @@ body {
 .login-background {
   background-image: url('/survivorcat.png');
   background-size: cover;
-  /* background-position: center; */
+  background-position: center;
   background-repeat: repeat-y;
   height: 100vh;
   width: 100vw;
