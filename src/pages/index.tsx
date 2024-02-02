@@ -10,6 +10,7 @@ export default function Home() {
     >
       <div className="text-white p-2">your picks are locked in. admin will pay out after super bowl</div>
     
+    <div>the end</div>
     </main>
   );
 }
