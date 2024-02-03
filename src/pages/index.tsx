@@ -8,7 +8,7 @@ export default function Home() {
     <main
       className="login-background"
     >
-      <div className="text-white p-2">your picks are locked in. admin will pay out after super bowl</div>
+      <div className="text-white p-2">No need to input anything. 6 KC, 6 SF, 2 NO pick. admin will pay out after super bowl</div>
     
     </main>
   );
